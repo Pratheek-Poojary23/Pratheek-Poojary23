@@ -1,11 +1,11 @@
-<h1 align="center">Hello World 👋, I'm Pratheek Poojary</h1>
+<h2 align="center">Hello World 👋, I'm Pratheek Poojary</h2>
 <h3 align="center">A passionate Robotics and AI Engineering Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratheek-poojary23&label=Profile%20views&color=0e75b6&style=flat" alt="pratheek-poojary23" /> </p>
 
 - 🔭 I’m currently working on **VOICE COMMAND RECOGNITION FOR DRONE CONTROL USING CNN ON ESP32 MICROCONTROLLER**
 
-- 🌱 I’m currently learning **ROS 2**
+- 🌱 I’m currently learning **ROS2**
 
 - 📫 How to reach me **pratheekpoojary28@gmail.com**
 
