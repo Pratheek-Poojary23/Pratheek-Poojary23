@@ -1,7 +1,7 @@
 # 💫 Hello 👋, I'm Pratheek Poojary
 **A passionate AI/ML Engineer || AI Engineer || from India**
 
-Email Me 👉 ✉️ **pratheekpoojary28@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **pratheekpoojary28@gmail.com** For Project detail or Anything Else. 😊😊
 
 # 🔗 About Me:
 💻 Currently pursuing  B.E in Robotics and Artificial Intelligence <br>🔭 I’m currently learning advanced deep learning and Computer Vision.<br>🤝 I’m looking for help with advanced deep learning techniques and tech industry job opportunities.<br>💬 Ask me about robotics, AI, deep learning, Computer Vision and NLP<br>👯 I’m looking to collaborate on projects involving cutting-edge technologies.
